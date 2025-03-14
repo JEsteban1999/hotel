@@ -15,4 +15,4 @@ Este es el backend de un sistema de reservas de hoteles desarrollado con Java 17
 ```bash
 git clone https://github.com/tu-usuario/hotel-reservation-backend.git
 cd hotel-reservation-backend
-```bash
+```
